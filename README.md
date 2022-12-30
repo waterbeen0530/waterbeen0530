@@ -1,7 +1,7 @@
 <div align = center>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=260&section=header&text=Waterbeen0530&fontSize=60&animation=fadeIn&fontAlignY=32&desc=Front-End%20Developer&descAlignY=51&descAlign=60)
-### Technology Stack📚
+### Technology Stack📖
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
